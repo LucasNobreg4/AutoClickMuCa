@@ -36,7 +36,7 @@ tipo_click = 'left'  # 'left', 'right', 'middle', 'double'
 # 2 = Segundo monitor  
 # 3 = Terceiro monitor
 # 4 = Quarto monitor (se existir)
-monitor_alvo = 3  # Altere conforme necessário
+monitor_alvo = 1  # Altere conforme necessário
 
 # Inicializa o mixer Pygame
 pygame.mixer.init()
